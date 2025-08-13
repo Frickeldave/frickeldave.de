@@ -12,7 +12,6 @@ Neue site bauen
 hugo new site frickeldave
 ```
 
-
 Installiere das Cleanwhite theme
 
 ```powershell
